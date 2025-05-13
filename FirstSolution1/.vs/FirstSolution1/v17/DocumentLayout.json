@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{2747AD69-502B-4D2B-A77D-156D18180BEF}|SecondProject\\SecondProject.csproj|solutionrelative:secondproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8A2EE4E2-C6D9-499F-A6F8-DDFCF7C86065}|FirstProject1\\FirstProject1.csproj|d:\\prn212\\firstsolution1\\firstproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2EE4E2-C6D9-499F-A6F8-DDFCF7C86065}|FirstProject1\\FirstProject1.csproj|solutionrelative:firstproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2747AD69-502B-4D2B-A77D-156D18180BEF}|SecondProject\\SecondProject.csproj|d:\\prn212\\firstsolution1\\secondproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2747AD69-502B-4D2B-A77D-156D18180BEF}|SecondProject\\SecondProject.csproj|solutionrelative:secondproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2747AD69-502B-4D2B-A77D-156D18180BEF}|SecondProject\\SecondProject.csproj|d:\\prn212\\firstsolution1\\secondproject\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2747AD69-502B-4D2B-A77D-156D18180BEF}|SecondProject\\SecondProject.csproj|solutionrelative:secondproject\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A2EE4E2-C6D9-499F-A6F8-DDFCF7C86065}|FirstProject1\\FirstProject1.csproj|d:\\prn212\\firstsolution1\\firstproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2EE4E2-C6D9-499F-A6F8-DDFCF7C86065}|FirstProject1\\FirstProject1.csproj|solutionrelative:firstproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IStudent.cs",
               "DocumentMoniker": "D:\\PRN212\\FirstSolution1\\SecondProject\\IStudent.cs",
               "RelativeDocumentMoniker": "SecondProject\\IStudent.cs",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "SecondProject\\IStudent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T17:15:09.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T17:15:09.165Z"
             },
             {
               "$type": "Document",
@@ -53,14 +52,14 @@
               "RelativeDocumentMoniker": "SecondProject\\Program.cs",
               "ToolTip": "D:\\PRN212\\FirstSolution1\\SecondProject\\Program.cs",
               "RelativeToolTip": "SecondProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T17:08:00.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\PRN212\\FirstSolution1\\SecondProject\\Student.cs",
               "RelativeDocumentMoniker": "SecondProject\\Student.cs",
@@ -68,12 +67,11 @@
               "RelativeToolTip": "SecondProject\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T17:03:35.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T17:03:35.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\PRN212\\FirstSolution1\\SecondProject\\Class1.cs",
               "RelativeDocumentMoniker": "SecondProject\\Class1.cs",
@@ -81,12 +79,11 @@
               "RelativeToolTip": "SecondProject\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T17:03:03.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T17:03:03.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PRN212\\FirstSolution1\\FirstProject1\\Program.cs",
               "RelativeDocumentMoniker": "FirstProject1\\Program.cs",
