@@ -9,6 +9,8 @@
             bool check = int.TryParse(Console.ReadLine(), out Age);
             Console.WriteLine(Age);
             Console.WriteLine("hello viet");
+                        Console.WriteLine("hello viet2");
+
         }
     }
 }
