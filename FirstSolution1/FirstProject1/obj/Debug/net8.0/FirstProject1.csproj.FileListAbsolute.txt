@@ -1,0 +1,15 @@
+D:\PRN212\FirstSolution1\FirstProject1\obj\Debug\net8.0\FirstProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\FirstSolution1\FirstProject1\obj\Debug\net8.0\FirstProject1.AssemblyInfoInputs.cache
+D:\PRN212\FirstSolution1\FirstProject1\obj\Debug\net8.0\FirstProject1.AssemblyInfo.cs
+D:\PRN212\FirstSolution1\FirstProject1\obj\Debug\net8.0\FirstProject1.csproj.CoreCompileInputs.cache
+D:\PRN212\FirstSolution1\FirstProject1\bin\Debug\net8.0\FirstProject1.exe
+D:\PRN212\FirstSolution1\FirstProject1\bin\Debug\net8.0\FirstProject1.deps.json
+D:\PRN212\FirstSolution1\FirstProject1\bin\Debug\net8.0\FirstProject1.runtimeconfig.json
+D:\PRN212\FirstSolution1\FirstProject1\bin\Debug\net8.0\FirstProject1.dll
+D:\PRN212\FirstSolution1\FirstProject1\bin\Debug\net8.0\FirstProject1.pdb
+D:\PRN212\FirstSolution1\FirstProject1\obj\Debug\net8.0\FirstProject1.dll
+D:\PRN212\FirstSolution1\FirstProject1\obj\Debug\net8.0\refint\FirstProject1.dll
+D:\PRN212\FirstSolution1\FirstProject1\obj\Debug\net8.0\FirstProject1.pdb
+D:\PRN212\FirstSolution1\FirstProject1\obj\Debug\net8.0\FirstProject1.genruntimeconfig.cache
+D:\PRN212\FirstSolution1\FirstProject1\obj\Debug\net8.0\ref\FirstProject1.dll
+D:\PRN212\FirstSolution1\FirstProject1\obj\Debug\net8.0\FirstProject1.csproj.AssemblyReference.cache
