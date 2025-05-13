@@ -10,6 +10,8 @@
             Console.WriteLine(Age);
             Console.WriteLine("hello viet");
                         Console.WriteLine("hello viet2");
+                                    Console.WriteLine("hello viet3");
+
 
         }
     }
